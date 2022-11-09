@@ -1,1 +1,3 @@
-# uvv_bd_1_cc1m
+Nome: Gabriel Ribeiro Cardoso
+Professor: Abrantes Araújo Silva Filho
+Turma: CC1M (2022)
